@@ -1,0 +1,108 @@
+.rank-section{
+    margin: 0 auto;
+    position: relative;
+    width: 100%;
+    margin-bottom: 6rem;
+}
+
+.rank-section p, .rank-section h1{
+    text-align: center;
+    display: block;
+    margin-bottom: 1rem;
+}
+
+.rank-section h1{
+font-size: 2rem;
+font-weight: bold;
+color: var(--green-white-100);
+text-transform: capitalize;
+}
+
+.rank-section p{
+color: rgba(255, 255, 255, 0.546);
+}
+
+.leaderboard {
+    max-width: 80rem;
+    /* width: 100%; */
+    margin: 2rem auto;
+    border-radius: 1rem;
+    /* box-shadow: 2px 2px 16px 1px #aaa; */
+    font-family: sans-serif;
+  }
+  
+  .leaderboard header {
+    background-color: #ff7500;
+    color: white;
+    text-transform: uppercase;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    height: 14rem;
+    position: relative;
+  }
+  
+  .leaderboard table {
+    background-color: #16181e;
+    color: #999;
+    width: 100%;
+    border-collapse: collapse;
+    overflow: hidden;
+  }
+  
+  .leaderboard thead {
+    font-size: 0.7rem;
+    color: #555;
+    text-transform: uppercase;
+  }
+  
+  .leaderboard tbody .contrib-name {
+    color: white;
+    font-weight: bold;
+    font-size: 0.9rem;
+  }
+  
+  .leaderboard tbody tr:nth-child(2n) {
+    background-color: #1f232c;
+  }
+  
+  .leaderboard .contrib-name {
+    text-align: left;
+  }
+  
+  .leaderboard .rank,
+  .leaderboard .collection_no,
+  .leaderboard .sold_no {
+    text-align: right;
+    line-height: 0;
+  }
+  
+  .leaderboard .rank {
+    width: 4ch;
+    padding-left: 1rem;
+  }
+  /* .leaderboard > table > tbody > .rankVal{
+    color: gold !important;
+  } */
+  .leaderboard .profile-img {
+    width: 2ch;
+    padding-left: 1rem;
+  }
+  .leaderboard .profile-img img{
+    object-fit: cover;
+    height: 2ch;
+    width: 2ch;
+    border-radius: 50%;
+  }
+  
+  .leaderboard .collection_no,
+  .leaderboard .sold_no {
+    width: 8ch;
+  }
+  
+  .leaderboard th {
+    padding: 1.5rem 1rem 0.5rem;
+  }
+  
+  .leaderboard td {
+    padding: 1rem 1rem;
+  }

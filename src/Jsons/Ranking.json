@@ -1,0 +1,67 @@
+[
+    {
+        "ranko": 1,
+        "src": "img/profile/4.jpg",
+        "name": "Alvin Panford",
+        "collections": 900,
+        "sold": 900,
+        "id": 1
+    },
+    {
+        "ranko": 2,
+        "src": "img/profile/6.jpg",
+        "name": "James Brown",
+        "collections": 800,
+        "sold": 800,
+        "id": 2
+    },
+    {
+        "ranko": 3,
+        "src": "img/profile/5.jpg",
+        "name": "Sarah Hault",
+        "collections": 700,
+        "sold": 700,
+        "id": 3
+    },
+    {
+        "ranko": 4,
+        "src": "img/profile/7.jpg",
+        "name": "Jeffrey Sand",
+        "collections": 600,
+        "sold": 600,
+        "id": 4
+    },
+    {
+        "ranko": 5,
+        "src": "img/profile/1.jpg",
+        "name": "Kevin Owens",
+        "collections": 500,
+        "sold": 500,
+        "id": 5
+    },
+    {
+        "ranko": 6,
+        "src": "img/profile/5.jpg",
+        "name": "Noelle Panford",
+        "collections": 400,
+        "sold": 400,
+        "id": 6
+    },
+    {
+        "ranko": 7,
+        "src": "img/profile/4.jpg",
+        "name": "Top Dolla$",
+        "collections": 300,
+        "sold": 300,
+        "id": 7
+    },
+    {
+        "ranko": 8,
+        "src": "img/profile/8.jpg",
+        "name": "Pete Davidson",
+        "collections": 200,
+        "sold": 200,
+        "id": 8
+    }
+]
+        
