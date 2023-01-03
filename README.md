@@ -1,20 +1,31 @@
 # NFT-Verse
-This is a React JS powered project. Original concept design from [Banana021s](https://github.com/Banana021s/Gallery-Media)
-
-## Installation steps ⚙
-    clon this repo with this command: git clone https://github.com/Banana021s/Gallery-Template.git
-    go to the directory and enter: npm i
-    when all packages are completely installed enter: npm start
-    
-# Added Features 🔥
-Below are the features that I have added to give it more life.🎨✨ Note that these images below are NOT the only features that have been added.
-You can check out the deployment on [Vercel](https://nft-verse-three.vercel.app/)
+This is a React JS powered project for NFT lovers ❤️. Original concept design by [Banana021s](https://github.com/Banana021s/Gallery-Media)
 <br/><br/>
-![Gallery Desktop](https://user-images.githubusercontent.com/89915857/164554768-0c553069-068e-4b3b-b6be-3c383a76d0cf.png)
+## Installation steps ⚙
+#### Option 1:
+    - Clone this repo with this command 'git clone https://github.com/Banana021s/Gallery-Template.git'
+    - Run the command in terminal 'npm i' or 'npm install', to install the necessary packages.
+    - When all packages are completely installed enter the next command 'npm build'.
+    - Now, run the app with the command 'npm start'.
+#### Option 2:
+    - Download source code zip and extract it to a directory of your choice
+    - Open source code folder with a code editor (Visual Studio Code recommended)
+    - Run the command in terminal 'npm i' or 'npm install', to install the necessary packages.
+    - When all packages are completely installed enter the next command 'npm build'.
+    - Now, run the app with the command 'npm start'.
+    
+# Added Features 🆕
+Below are the features that I have added to give it more life🎨✨. You can check out the deployment on [Vercel](https://nft-verse-three.vercel.app/)
+<br/>
+
+- Collections Section 🗄️
+- Ranking Section 🥇
+- Footer Section 👣
+- One Page link scroll 📜
 
 
-# Features   
-- nice dark theme and design 🔥🎨✨
-- sort the images 🧮
-- responsive 📲
-- masonry layout ⛓🖼
+# Upcoming Features 🕐
+Over time, the features below will be added. I reserve the right to make changes without notice.<br/>
+- Go to top button 🔝
+- Add to Favourite list 🌟
+- Live Search 🔎
