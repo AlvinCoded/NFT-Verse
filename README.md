@@ -1,5 +1,5 @@
 # NFT-Verse
-This is a React JS powered project for NFT lovers ❤️. Original concept design by [Banana021s](https://github.com/Banana021s/Gallery-Media)
+This is a React JS powered project for NFT lovers ❤️.
 <br/><br/>
 ## Installation steps ⚙
 #### Option 1:
