@@ -28,3 +28,5 @@ Over time, the features below will be added. I reserve the right to make changes
 - Go to top button 🔝
 - Add to Favourite list 🌟
 - Live Search 🔎
+- Sign up page
+- Login Page
